@@ -1,5 +1,5 @@
 {
-    "name": "travoltron/laravel-mailgun",
+    "name": "killswitch/laravel-mailgun",
     "description": "Laravel bundle for Mailgun",
     "keywords": ["laravel","mailgun"],
     "homepage": "http://github.com/killswitch/laravel-mailgun",

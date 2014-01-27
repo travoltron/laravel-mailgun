@@ -6,14 +6,20 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Josh Manders",
-            "email": "josh@joshmanders.com"
+            "name": "Ben Warburton",
+            "email": "ben@travoltron.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/travoltron/laravel-mailgun"
         }
     ],
     "require": {
         "php": ">=5.3.0",
         "illuminate/support": "4.1.x",
-        "mailgun/mailgun-php": "1.6.x"
+        "mailgun/mailgun-php": "1.6"
     },
     "autoload": {
         "psr-0": {
